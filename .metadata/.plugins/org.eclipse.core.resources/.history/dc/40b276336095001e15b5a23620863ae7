@@ -1,0 +1,20 @@
+package Condicionais;
+
+
+import java.util.Scanner;
+public class exercicio01 {
+
+	public static void main(String[] args) {
+		int A;
+		int B;
+		int C;
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("Digite o número A");
+		A = leia.nextInt();
+		
+		
+
+	}
+
+}

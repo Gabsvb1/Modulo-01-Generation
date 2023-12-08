@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\gabi_\OneDrive\Área de Trabalho\Generation\JAVA-05 – Laços Condicionais\.metadata\.plugins\org.eclipse.jdt.core
+2022222132.index
+1865797976.index
+216044136.index
